@@ -1,5 +1,6 @@
 # CSE510_DBMSi
 
+This project is a part of course CSE 510: Database Management System Implementation at ASU.
 Our goal this semester is to use these modules of MiniBase as building blocks for implementing a user preference sensitive DBMS to support e-commerce applications:
 
 1. S. Borzsony, D. Kossmann and K. Stocker, ”The Skyline operator,” Proceedings 17th International Conference on
