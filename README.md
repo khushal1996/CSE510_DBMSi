@@ -10,7 +10,6 @@ Computing, vol 31. Springer, Berlin, Heidelberg. https://doi.org/10.1007/3-540-3
 3. K.L. Tan, P.K. Eng and B. C. Ooi. “Efficient Progressive Skyline Computation.” 27th Int. Conference on Very
 Large Data Bases (VLDB), Roma, Italy, 301-310, September 2001.
 
-## Running Phase 2:
+## Execution:
 
-1. `cd src`
-2. run `make test` -> this will start the driver code
+Run the `src/driver/AppDriverPhase3.java` file to use the query interface. Use `help` command in the interface to know more.
